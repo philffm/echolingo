@@ -1,6 +1,6 @@
-## Title: Voice Coaching Jupyter Notebook - Speech Recognition & Analysis
+# Echolingo: Voice Coaching Jupyter Notebook - Speech Recognition & Analysis
 
-### Project Pitch:
+## Project Pitch:
 Are you learning a new language and looking for a way to improve your pronunciation? Or maybe you are trying to reduce your accent in a foreign language? Look no further, this Jupyter notebook is just for you. The primary aim of this project is to provide an automated speech recognition tool that listens, understands, and provides feedback to your spoken English or German. This is achieved by processing sound files you create while reading books.
 
 The notebook:
@@ -12,7 +12,7 @@ The notebook:
 
 This project provides a unique, customizable, and interactive way to track your language learning progress, acting as a personalized language coach.
 
-### GitHub Tags:
+## Tags:
 `#SpeechRecognition` `#VoiceAnalysis` `#LanguageLearning` `#SpeechToText` `#PronunciationImprovement` `#English` `#German`
 
 ### Potential Python Libraries:
